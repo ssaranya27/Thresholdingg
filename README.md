@@ -31,7 +31,7 @@ Use Otsu's method to segment the image and display the results.
 
 ## Program
 
-### NAME : JANARTHANAN K
+### NAME : SARANYA S
 ### REG.NO: 212223220101
 
 # Load the necessary packages
